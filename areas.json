@@ -2,7 +2,7 @@
   "cities": [
     {
       "name": "Pryagraj",
-      "localities": ["Civil Lines", "Naini", "Jhusi", "Jhalwa", "Ashok Nagar", "kalindipuram", "Phaphamau", "Sulem Sarai","Bamrauli", "Mumford ganj"]
+      "localities": ["Katra","Old Katra","Civil Lines", "Naini", "Jhusi", "Jhalwa", "Ashok Nagar", "kalindipuram", "Phaphamau", "Sulem Sarai","Bamrauli", "Mumford ganj", "George towm", "Lukar ganj", "Kareli", "Allahpur", "Preetam Nagar", "Mundera Bazaar", "Andawa", "Rajrooppur", "Dhoomanganj", "Dandi", "Tagore Town", "Rawatpur", "Meerapur", "Gauhania", "Rajapur", "Govindpur", "Chaufakta", "Kathula Gospur", "Teliarganj", "Trivenipuram", "Priram Nagar", "Chaka", "Rambagh"]
     },
     
   ]
