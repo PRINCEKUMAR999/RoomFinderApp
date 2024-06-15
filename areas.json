@@ -1,12 +1,9 @@
 {
   "cities": [
     {
-      "name": "City1",
-      "localities": ["Locality1-1", "Locality1-2", "Locality1-3"]
+      "name": "Pryagraj",
+      "localities": ["Civil Lines", "Naini", "Jhusi", "Jhalwa", "Ashok Nagar", "kalindipuram", "Phaphamau", "Sulem Sarai","Bamrauli", "Mumford ganj"]
     },
-    {
-      "name": "City2",
-      "localities": ["Locality2-1", "Locality2-2", "Locality2-3"]
-    }
+    
   ]
 }
